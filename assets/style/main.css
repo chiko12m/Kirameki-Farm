@@ -886,6 +886,10 @@ img {
     background-image: url(../image/price/gallery_photo_03.png);
 }
 
+.gallery__item--4 {
+    background-image: url(../image/price/gallery_photo_04.png);
+}
+
 @media (min-width: 768px) {
     .gallery__item {
         background-size: cover;
@@ -986,6 +990,7 @@ img {
 .price__text {
     font-size: 1rem;
     font-weight: 700;
+    color: #168352;
 }
 .price__text .-large {
     font-family: "Montserrat", sans-serif;
